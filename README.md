@@ -22,4 +22,13 @@
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman)
 
+#### Свяжись со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/marshoa)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/sohranimoydom/)
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://wa.me/79234341527))
+
+
+
+
 
