@@ -1,7 +1,7 @@
 ## Приветствую всех 👋🏽! 
 ### Меня зовут Саид-Хусейн и я Full-Stack разработчик! 
 <!-- и я Окончил курсы Intocode Bootcamp Coding -->
-###
+---
 
 ### Стек с которым я работал:
 
@@ -23,7 +23,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-111111?style=for-the-badge&logo=Heroku)
 ![Github](https://img.shields.io/badge/Github-111111?style=for-the-badge&logo=GitHub)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman)
-###
+---
 
 #### Свяжись со мной
 
@@ -31,7 +31,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/sohranimoydom/)
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://wa.me/79234341527))
 
-###
+---
 
 
 
