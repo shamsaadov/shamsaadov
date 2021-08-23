@@ -26,6 +26,20 @@
 
 ---
 
+
+### Мои проекты:
+
+Сайт для поиска ментора по программированию:
+
+<a href="https://mentor-mern-tutor-app.herokuapp.com" > Демо </a> || <a href="https://github.com/shamsaadov/tutor-app" > Код </a> 
+
+CRM для кофейни:
+
+
+<a href="https://crm-mern-coffee-app.herokuapp.com" > Демо </a> || <a href="https://github.com/shamsaadov/CRM-for-Coffee" > Код </a> 
+
+---
+
 #### Свяжись со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/marshoa)
@@ -38,17 +52,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamsaadov&theme=react&show_icons=true)
 
 ---
-
-
-### Мои проекты:
-
-Сайт для поиска ментора по программированию:
-
-<a href="https://mentor-mern-tutor-app.herokuapp.com" > Демо </a> || <a href="https://github.com/shamsaadov/tutor-app" > Код </a> 
-
-CRM для кофейни:
-
-
-<a href="https://crm-mern-coffee-app.herokuapp.com" > Демо </a> || <a href="https://github.com/shamsaadov/CRM-for-Coffee" > Код </a> 
 
 
