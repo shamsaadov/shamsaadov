@@ -40,3 +40,6 @@ CRM для кофейни: <a href="https://crm-mern-coffee-app.herokuapp.com" >
 
 
 ---
+
+
+![CodeWars](https://www.codewars.com/users/said_khuseyn/badges/large)
